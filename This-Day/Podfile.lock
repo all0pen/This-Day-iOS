@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.8.0)
+  - CVCalendar (1.6.2)
+  - Kingfisher (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - CVCalendar (~> 1.6.2)
+  - Kingfisher
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - CVCalendar
+    - Kingfisher
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  CVCalendar: 515092247b9c5059855643c2a2220f259bd5417f
+  Kingfisher: 4f771421b9208185217550528a06fd48756cb7c2
+
+PODFILE CHECKSUM: 715ffd1c7170247e24bd475da878d7fdca5ee59d
+
+COCOAPODS: 1.5.3
